@@ -8,6 +8,7 @@
 
 <h3 align="center">Connect with me:  <img src="https://user-images.githubusercontent.com/78635600/131916889-c9d6ff07-df83-4ec6-9e24-0410693dbe7d.gif" width="100"/></h3> 
 <p align="center">
+  <a href="https://github.com/mravirajsingh" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78635600/131920438-475ace6c-efeb-4dd5-a205-9ea35cb3d365.png" alt="mravirajsingh" height="30" width="40" /></a>
 <a href="https://twitter.com/mravirajsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mravirajsingh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mravirajsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mravirajsingh" height="30" width="40" /></a>
 <a href="https://instagram.com/mravirajsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mravirajsingh" height="30" width="40" /></a>

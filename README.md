@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/78635600/131915844-7d09c238-2129-4a20-acb1-04dea16ffcd9.gif" alt="wave" width="50"/>, I'm Avinash Raj</h1>
 <h3 align="center">Keen Learner</h3>
-<h1 align="center"><img src="https://user-images.githubusercontent.com/78635600/131917808-e615c9d9-6373-449c-acd3-633cca28144b.gif" width="100"/></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/78635600/132982102-fc5476de-23e6-4a7a-9214-3a742e38708e.gif"/></h1>
 
 <p align="center">📫 How to reach me  : <b>avinashraj0631@gmail.com</b></p>
 

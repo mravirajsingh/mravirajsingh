@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://user-images.githubusercontent.com/78635600/131914121-bd6c3802-0054-4960-838d-93859fc65e84.gif" alt="gif" width="500"/></h1>
 
 <h1 align="center">Hi  <img src="https://user-images.githubusercontent.com/78635600/131915844-7d09c238-2129-4a20-acb1-04dea16ffcd9.gif" alt="wave" width="50"/>, I'm Avinash Raj</h1>
-<h3 align="center">Keen Learner</h3>
+<h3 align="center">I am a Software Engineer (Frontend UI Developer)</h3>
 <h1 align="center"><img src="https://user-images.githubusercontent.com/78635600/132982102-fc5476de-23e6-4a7a-9214-3a742e38708e.gif"/></h1>
 
 <p align="center">📫 How to reach me  : <b>avinashraj0631@gmail.com</b></p>
